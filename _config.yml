@@ -23,7 +23,7 @@ resume_contact_email:           "jjw8967@ajou.ac.kr"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 #display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a Ph.D. student in <a href='https://sites.google.com/view/cslajou/'>Computer Systems Lab (CSL)</a>, Ajou University. My advisor is <a href='https://jeongseob.github.io'>Prof.JeongSeob Ahn.</a></p>"
+resume_header_intro: "<p>I am a Ph.D. student in <a href='https://csl.ajou.ac.kr'>Computer Systems Lab (CSL)</a>, Ajou University. My advisor is <a href='https://jeongseob.github.io'>Prof.JeongSeob Ahn.</a></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

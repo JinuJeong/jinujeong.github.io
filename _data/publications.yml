@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- title: "[EuroSys '23] Fast and Efficient Model Serving Using Multi-GPUs with Direct-Host-Access [ to appear ]"
+- title: "[ EuroSys '23, <i style='color:blue;'>Gilles Muller Best Artifact Award</i> ] Fast and Efficient Model Serving Using Multi-GPUs with Direct-Host-Access [ <a href='https://dl.acm.org/doi/pdf/10.1145/3552326.3567508'>Paper</a> | <a href='slides/EuroSys23_DeepPlan_Slide.pdf'>Slides</a> | <a href='https://github.com/csl-ajou/DeepPlan'>Code</a> ]"
   authors: <U>Jinwoo Jeong*</U>, Seungsu Baek, and Jeongseob Ahn
   conference: ACM European Conference on Computer Systems (<B>EuroSys</B>), 2023
 
 # Springfield Community Outreach Group
-- title: "[ATC '22] Memory Harvesting in Multi-GPU Systems with Hierarchical Unified Virtual Memory"
+- title: "[ ATC '22 ] Memory Harvesting in Multi-GPU Systems with Hierarchical Unified Virtual Memory"
   authors: Sangjin Choi*, Taeksoo Kim*, <U>Jinwoo Jeong</U>, Rachata Ausavarungnirun, Myeongjae Jeon, Youngjin Kwon, and Jeongseob Ahn
   conference: USENIX Annual Technical Conference (<B>ATC</B>), 2022

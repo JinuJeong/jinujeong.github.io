@@ -319,3 +319,9 @@ footer {
   font-weight: 500;
   margin-bottom: 6px;
 }
+
+.pub-note {
+  font-size: 13px;
+  color: #777;
+  margin-bottom: 6px;
+}

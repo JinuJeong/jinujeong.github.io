@@ -155,42 +155,20 @@ header ul {
   margin: 0 0 20px;
 }
 
-header ul.social-links {
-  list-style:none;
-  padding:0;
+header ul.text-links {
   margin-bottom: 20px;
   display: flex;
-  gap: 16px;
+  flex-wrap: wrap;
 }
 
-header ul.social-links li {
-  width:auto;
-  float:none;
-  border-right:none;
-  height:auto;
+header ul.text-links li {
+  white-space: nowrap;
 }
 
-header ul.social-links a {
-  font-size:22px;
-  color:#494949;
-  display:block;
-  text-align:center;
-  padding:0;
-  height:auto;
-  transition: color 0.2s;
-}
-
-header ul.social-links a:hover {
-  color:#069;
-}
-
-header ul.social-links a:active {
-  color:#069;
-}
-
-header ul.social-links li + li + li {
-  width:auto;
-  border-right:none;
+header ul.text-links li:not(:last-child)::after {
+  content: "|";
+  margin: 0 8px;
+  color: #999;
 }
 
 strong {
